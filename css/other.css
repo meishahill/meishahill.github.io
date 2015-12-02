@@ -46,13 +46,13 @@ h1{
 }
 
 #philContainer{
-  padding-right: 10px;
+  padding-right: 30px;
   padding-top: 30px;
   margin-bottom:100px;
   overflow:auto;
 }
 
-#image{
+/*#image{
   background: url(images/almonds.png);
   height:125px;
   position: fixed;
@@ -60,7 +60,12 @@ h1{
   left: 0;
   zoom:80%;
   width: 100%;
-}
+  background: url(images/barbite.jpg);
+  height:495px;
+  width:400px;
+  float:right;
+  zoom:70%;
+}*/
 
 /*#almonds{
  background: url(images/almondheart.png);
@@ -93,7 +98,7 @@ h1{
 
 
 #productcontainer{
-  padding-top: 10px;
+  padding-top: 25px;
   overflow:auto;
   margin-bottom:100px;
  /* margin: auto;*/
